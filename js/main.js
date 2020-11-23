@@ -16,10 +16,5 @@ const app = new Vue ({
                 console.log(error);
             })
         }     
-    },
-
-    methods: {
-
-        
     }
 });
